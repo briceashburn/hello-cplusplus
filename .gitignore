@@ -1,0 +1,22 @@
+# Compiled binaries
+hello
+*.exe
+*.out
+*.app
+
+# Debug information
+*.dSYM/
+Contents/
+
+# Build artifacts
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+
+# IDE files
+.vscode/settings.json
+
+# OS files
+.DS_Store
